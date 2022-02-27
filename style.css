@@ -1,0 +1,22 @@
+#error{
+    display: hidden;
+}
+.modal-Close{
+    width: 100px;
+}
+.modal-posi{
+    margin-top: 200px;
+}
+.search-part{
+    width: 600px;
+}
+@media screen and (max-width: 600px) {
+    .search-part{
+        width: 370px;
+    }
+    .card{
+        margin: auto;
+
+    }
+}
+    
